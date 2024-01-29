@@ -1,7 +1,7 @@
 # ratty
 
 - [Reads quality control](00.ReadsQC.md)
-- [Heterozygosity](01.Heterozygosity)
+- [Heterozygosity](01.Heterozygosity.md)
 - [Assembly quality control](02.AssemblyQC.md)
 - [Pangenome graphs](03.PangenomeGraphs.md)
 
